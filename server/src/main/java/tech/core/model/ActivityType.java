@@ -1,0 +1,17 @@
+package tech.core.model;
+
+public enum ActivityType {
+    LOGIN,
+    REGISTER,
+    LOGOUT,
+    DOCUMENT_EDIT,
+    DOCUMENT_GET_ALL,
+    DOCUMENT_VIEW,
+    DOCUMENT_IMPORT,
+    DOCUMENT_EXPORT,
+    DOCUMENT_SHARE,
+    DOCUMENT_CREATE,
+    DOCUMENT_DELETE,
+    USER_GET_ALL,
+    USER_UPDATE
+}
